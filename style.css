@@ -1,0 +1,15 @@
+h1{
+    background-color:black;
+    color:lightskyblue;
+}
+h2{
+    background-color: violet;
+    color: white;
+    text-align: center;
+    font-weight: 100;
+}
+h3{
+    background-color: teal;
+    color: yellowgreen;
+    text-align: right;
+}
